@@ -1,7 +1,7 @@
 # BarterTech
 
 BarterTech e uma plataforma backend de escambo de servicos: pessoas oferecem habilidades e encontram outras pessoas que oferecem aquilo que procuram, sem intermediacao financeira. O projeto foi pensado como portfolio de Java, com foco em regras de negocio e modelagem de dominio em vez de operacoes CRUD.
-
+a
 ## Como funciona
 Cada `Usuario` mantem os servicos que oferece e uma lista de tipos de servico que procura. Um `Servico` pertence a um unico usuario e pode estar disponivel ou indisponivel. Uma `PropostaTroca` registra quem oferece qual servico, qual servico deseja receber, prazo e condicoes contratuais.
 
